@@ -3,9 +3,9 @@
 const giftIdeas = {
   mom: ["Spa gift card", "Flowers", "Meal delivery"],
   dad: ["Beer", "Sport event ticket", "Car accessories"],
-  friend: ["Books", "Coffee beans", "Movie night"],
+  friend: ["Books", "Coffee", "Movie night"],
   partner: ["Kitchen knife", "Whisky", "Fishing accessories"],
-  pet: ["Treats pack", "Scratcher", "Catnip"],
+  pet: ["Treats", "Scratcher", "Catnip"],
 };
 
 // STEP 2: Select the dropdown, button, and results <div> from the HTML
