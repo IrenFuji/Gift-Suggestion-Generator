@@ -1,5 +1,5 @@
 // STEP 1: Create an object called giftIdeas
-// Each key (Mom, Friend, Child) holds an array of 3 gift suggestions
+
 const giftIdeas = {
   mom: ["Spa gift card", "Flowers", "Meal delivery"],
   dad: ["Beer", "Sport event ticket", "Car accessories"],
